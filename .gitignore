@@ -1,0 +1,5 @@
+Test-Archive-Libarchive-*
+/.build/
+*.swp
+
+
