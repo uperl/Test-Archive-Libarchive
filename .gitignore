@@ -2,4 +2,7 @@ Test-Archive-Libarchive-*
 /.build/
 *.swp
 
-
+/Test-Archive-Libarchive-*
+/.build
+*.old
+*.orig
